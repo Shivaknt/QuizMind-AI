@@ -4,7 +4,6 @@
 
 **An AI-powered quiz generation and evaluation app built with Streamlit.**  
 Pick any topic, any difficulty — get an instant personalized quiz. Deployed on AWS EC2 with Docker.
-<img width="1459" height="776" alt="QuizMind+AI+Workflow" src="https://github.com/user-attachments/assets/eaa76627-506e-46fa-9a01-3047558d6bcc" />
 
 
 [🚀 Quick Start](#-quick-start-local) · [✨ Features](#-features) · [📁 Project Structure](#-project-structure) · [🐳 Docker](#-docker-deployment) · [☁️ AWS EC2](#-aws-ec2-deployment)
